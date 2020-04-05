@@ -20,7 +20,7 @@ const Home = () => (
 
     <Navbar />
 
-    <div className="container">
+    <div className="container" style={{paddingTop: '5rem'}}>
       <div className="row">
 
         <div className="col-lg-3">
